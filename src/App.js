@@ -1,10 +1,10 @@
-
 import './App.css';
 
 function App() {
  return (
-  <div className="App">
-   asd
+  <div className="text-[50px]">
+    asd
+   {/* <Navbar/> */}
   </div>
  );
 }
