@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
  return (
-  <div className="text-[50px]">
+  <div className="">
     asd
    {/* <Navbar/> */}
   </div>
